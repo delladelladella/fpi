@@ -194,6 +194,7 @@ a:active {
 .post-img {
   width: 85%;
   height: auto;
+  align-content: center;
 }
 
 /* Resolving conflicts */
